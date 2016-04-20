@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>Framework7</artifactId>
-    <version>1.4.2</version>
+    <version>1.4.3-SNAPSHOT</version>
     <name>Framework7</name>
     <description>WebJar for Framework7</description>
     <url>http://webjars.org</url>
@@ -47,7 +47,7 @@
         <url>http://github.com/webjars/Framework7</url>
         <connection>scm:git:https://github.com/webjars/Framework7.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/Framework7.git</developerConnection>
-        <tag>Framework7-1.4.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
